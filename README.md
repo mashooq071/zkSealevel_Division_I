@@ -2,7 +2,7 @@
 
 Zero-Knowledge Proof System for Solana State Validation
 
-```
+```graphics change
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║                                zkSealevel                                    ║
 ║                    Zero-Knowledge Proof System for Solana                   ║
